@@ -5,7 +5,9 @@ Included in the package are a demo app and a resuable component that enables Mak
 
 ## Demo App
 The has 4 UXs, covering: Phones, Portrait Tablets, Landscape Tablets and Desktops.
+
 ![](https://github.com/Feincraft/TrulyResponsive/blob/main/TrulyResponsive%20O110.gif?raw=true)
+
 All UX elements are real and there's data associated with tables and charts.
 The data is either embedded or imported from Excel, you can find the spreasheet used in this repo.
 
@@ -15,7 +17,9 @@ How to import PowerApp from .msapp file: https://carldesouza.com/how-to-export-a
 
 ## Build your own apps with The Watcher
 **The Watcher** is a resusable PowerApps component that lets Makers define which screens should be shown at which device size.
+
 ![](https://github.com/Feincraft/TrulyResponsive/blob/main/TR%20Properties.png?raw=true)
+
 Makers would still need to accomodate different device sizes in the same category by stretching UX elements. For example: 5" phones and 6" phones are different in size and can have different resolutions, but not so much so that an entirely new UX is needed. Stretching tables and panels is perfectly fine. However, if we start the same app on a 10"-11" tablet, we'll need a different UX to take advantage of the space and just make the app usable.
 
 ### How it works
@@ -33,5 +37,7 @@ The Watcher component needs to be present on every screen for Adaptive apps and 
 It's recommended to make the starting screen blank, to avoid flickering on initial UX switching.
 
 When building apps with The Watcher, select the Tablet option:
+
 ![](https://github.com/Feincraft/TrulyResponsive/blob/main/AppCreate.png?raw=true)
+
 Don't worry the app will run perfectly on any device.
