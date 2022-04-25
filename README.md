@@ -46,6 +46,7 @@ Don't worry the app will run perfectly on any device.
 - The Watcher takes breakpoint values from `App.SizeBreakpoints`. You can see the value and change the in your app or enable Debug Mode in The Watcher to see current values.
 
 Start building with The Watcher component: https://github.com/Feincraft/TrulyResponsive/raw/main/TheWatcher.msapp
-How to import components? You click "Import Component" 😉
+
+How to import components? You click "Import Components" 😉
 
 ![](https://github.com/Feincraft/TrulyResponsive/blob/main/ImportComponent.png?raw=true)
