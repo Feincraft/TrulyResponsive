@@ -13,6 +13,7 @@ The data is either embedded or imported from Excel, you can find the spreasheet 
 
 Devices sizes are defined in `App.SizeBreakpoints`, it's therefore possible to adjust the transfomration threshold to your needs.
 
+Get the demo app from this repo: https://github.com/Feincraft/TrulyResponsive/raw/main/TrulyResponsive.msapp
 How to import PowerApp from .msapp file: https://carldesouza.com/how-to-export-and-import-canvas-apps-msapp-and-zip-formats/
 
 ## Build your own apps with The Watcher
@@ -43,3 +44,8 @@ Select the option right for your app by swithing the Fixed Screen property.
 Don't worry the app will run perfectly on any device.
 
 - The Watcher takes breakpoint values from `App.SizeBreakpoints`. You can see the value and change the in your app or enable Debug Mode in The Watcher to see current values.
+
+Start building with The Watcher component: https://github.com/Feincraft/TrulyResponsive/raw/main/TheWatcher.msapp
+How to import components? You click "Import Component" 😉
+
+![](https://github.com/Feincraft/TrulyResponsive/blob/main/ImportComponent.png?raw=true)
