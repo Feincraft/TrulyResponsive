@@ -32,12 +32,14 @@ Select the option right for your app by swithing the Fixed Screen property.
 
 ### Considerations
 
-The Watcher component needs to be present on every screen for Adaptive apps and only on the starting screen of Fixed Screen apps.
+- The Watcher component needs to be present on every screen for Adaptive apps and only on the starting screen of Fixed Screen apps.
 
-It's recommended to make the starting screen blank, to avoid flickering on initial UX switching.
+- It's recommended to make the starting screen blank, to avoid flickering on initial UX switching.
 
-When building apps with The Watcher, select the Tablet option:
+- When building apps with The Watcher, select the Tablet option:
 
 ![](https://github.com/Feincraft/TrulyResponsive/blob/main/AppCreate.png?raw=true)
 
 Don't worry the app will run perfectly on any device.
+
+- The Watcher takes breakpoint values from `App.SizeBreakpoints`. You can see the value and change the in your app or enable Debug Mode in The Watcher to see current values.
