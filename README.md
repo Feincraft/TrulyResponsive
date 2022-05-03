@@ -43,6 +43,8 @@ Select the option right for your app by swithing the Fixed Screen property.
 
 Don't worry the app will run perfectly on any device.
 
+- Disable "Scale to fit", this is handled by The Watcher
+![](https://github.com/Feincraft/TrulyResponsive/blob/main/ScaleToFit.png?raw=true)  
 - The Watcher takes breakpoint values from `App.SizeBreakpoints`. You can see the value and change the in your app or enable Debug Mode in The Watcher to see current values.
 
 Start building with The Watcher component: https://github.com/Feincraft/TrulyResponsive/raw/main/TheWatcher.msapp
