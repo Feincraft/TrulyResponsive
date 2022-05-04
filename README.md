@@ -3,7 +3,7 @@
 **Truly Responsive** is a framework to build PowerApps that present different UXs, based on the device they are running on. This in contast to "stretchy designs" where UI elements just stretch to fill in avaialble space.
 Included in the package are a demo app and a resuable component that enables Makers create their own Truly Responsive designs.
 
-![](https://www.youtube.com/watch?v=SsYOt-ITVZs&t=32s)
+![Watch the full video on YouTube](https://www.youtube.com/watch?v=SsYOt-ITVZs&t=32s)
 
 
 ## Demo App
