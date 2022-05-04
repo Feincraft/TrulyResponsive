@@ -54,4 +54,5 @@ Start building with The Watcher component: https://github.com/Feincraft/TrulyRes
 
 How to import components? You click "Import Components" 😉
 
-![](https://github.com/Feincraft/TrulyResponsive/blob/main/ImportComponent.png?raw=true)
+![ImportComponent](https://user-images.githubusercontent.com/32096531/166683736-6badc31b-1b06-4e50-ad00-0d8d0af1fd4d.png)
+
